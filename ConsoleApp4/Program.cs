@@ -11,6 +11,7 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             int aaaa = 0;
+            int igen = 0;
         }
     }
 }
